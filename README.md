@@ -7,7 +7,7 @@ You can just download and run the app, and see the demo.
 
 Prerequisites:
 
-You need node & npm commands working globally.
+You need node & npm.
 
 Running:
 
