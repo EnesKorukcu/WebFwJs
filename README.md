@@ -5,7 +5,13 @@ WebfwJS is web framework that runs in nodejs. It has modules and layout mechanis
 
 You can just download and run the app, and see the demo.
 
-1) Download the framework
+Prerequisites:
+
+You need node & npm commands working globally.
+
+Running:
+
+1) Download the zip file and unzip
 
 2) npm install
 
