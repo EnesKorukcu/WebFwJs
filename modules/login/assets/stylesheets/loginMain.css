@@ -1,0 +1,71 @@
+html {
+    background: #F6F5EE;
+    text-rendering: optimizeLegibility;
+}
+body {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 12px;
+}
+.loginHeaderWrapper {
+    width: 1200px;
+    padding:20px;
+    margin:0 auto;
+}
+.loginBodyWrapper {
+    width: 1200px;
+    padding:20px;
+    margin:0 auto;
+}
+.loginFooterWrapper {
+    padding:60px 0 60px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.loginFooterBody {
+    width: 1200px;
+    margin:0 auto;
+    font-size: 14px;
+}
+.logo {
+    font-size: 32px;
+    cursor: pointer;
+}
+.loginField {
+    padding: 4px;
+}
+.loginFieldTitle {
+    font-size: 24px;
+    margin-bottom:10px;
+}
+.loginField input {
+    font-size:18px;
+    padding: 10px;
+    width: 300px;
+    border: 1px solid black;
+}
+.loginButton {
+    background: black;
+    color:white;
+    font-size: 18px;
+    padding: 10px;
+    width: 140px;
+    text-align: center;
+    cursor: pointer;
+    margin-top:10px;
+}
+.loginErrorMessage {
+    margin-top:6px;
+}
+.greenButton {
+    background: green;
+}
+.loginErrorMessage {
+    color: red;
+    font-size: 14px;
+}
+.done-true {
+    text-decoration: line-through;
+    color: grey;
+}

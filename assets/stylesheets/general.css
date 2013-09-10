@@ -1,0 +1,19 @@
+html {
+    background: #F6F5EE;
+    text-rendering: optimizeLegibility;
+}
+body {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 24px;
+}
+.clear {
+    clear: both;
+}
+.title {
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.green {
+    color: green;
+}

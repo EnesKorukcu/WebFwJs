@@ -1,0 +1,6 @@
+node_modules/
+.idea/
+dev_requestLog.txt
+.DS_STORE
+internal.log
+prod_requestLog.txt

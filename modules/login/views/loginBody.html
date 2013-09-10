@@ -1,0 +1,18 @@
+<div ng-controller="loginPage" ng-app="loginApp">
+    <form action='' method='post' name='loginForm'>
+        <div class="loginField">
+            <div class="loginFieldTitle">Username</div>
+            <input type="text" name='username' ng-model="username" />
+        </div>
+        <div class="loginField">
+            <div class="loginFieldTitle">Password</div>
+            <input type="password" name='password' ng-model="password" />
+        </div>
+        <div class="loginField">
+            <div class="loginErrorMessage">{{loginErrorMessage}}</div>
+        </div>
+        <div class="loginField">
+            <div class="{{loginButtonClass}}" ng-click="loginSubmit()">{{loginButtonText}}</div>
+        </div>
+    </form>
+</div>

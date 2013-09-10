@@ -1,0 +1,17 @@
+.menu {
+    float: left;
+    margin-left: 20px;
+    width: 65%;
+}
+.menuTitle {
+    float: left;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.menuContainer {
+    font-size: 14px;
+    margin-top: 13px;
+}
+.menuContainer .active {
+    font-weight: 700;
+}

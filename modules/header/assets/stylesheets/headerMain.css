@@ -1,0 +1,15 @@
+.homeHeaderWrapper {
+    width: 1200px;
+    padding:20px;
+    margin:0 auto;
+}
+.logo {
+    float: left;
+    cursor: pointer;
+}
+.logo {
+    font-size: 32px;
+}
+.greyButton {
+    background: grey;
+}
