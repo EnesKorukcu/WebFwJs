@@ -3,11 +3,11 @@ webfwjs
 
 WebfwJS is web framework that runs in nodejs. It has modules and layout mechanism.
 
-You can just download and run the app.
+There are two little engines in framework; module engine and layout engine.
 
-You can inspect the code for 5 minutes to have general idea about the framework.
+Framework provides directory tree for application development.
 
-Docs are coming.
+You can just download and run.
 
 Prerequisites:
 
